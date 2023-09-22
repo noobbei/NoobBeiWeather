@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="title">
+    <file>img/title/pin_hover.png</file>
+    <file>img/title/pin_normal.png</file>
+    <file>img/title/pin_true.png</file>
+    <file>img/icon.ico</file>
+    <file>img/title/close_icon_hover.png</file>
+    <file>img/title/close_icon_normal.png</file>
+    <file>img/title/close_icon_pressed.png</file>
+    <file>img/title/lock_hover.png</file>
+    <file>img/title/lock_normal.png</file>
+    <file>img/title/minimize_icon_hover.png</file>
+    <file>img/title/minimize_icon_normal.png</file>
+    <file>img/title/minimize_icon_pressed.png</file>
+    <file>img/title/setting_hover.png</file>
+    <file>img/title/setting_normal.png</file>
+    <file>img/title/setting_pressed.png</file>
+  </qresource>
+</RCC>
